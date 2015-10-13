@@ -14,7 +14,7 @@ $images = array(
   6 => 'http://orig11.deviantart.net/6730/f/2012/049/e/5/paddle_ball_by_subjectnumber2394-d4q3nal.gif'
   7 => 'http://orig07.deviantart.net/c00a/f/2012/359/8/6/doodoodoo_gif___derpy_by_1n33d4hug-d5p4ioc.gif',
   8 => 'http://orig09.deviantart.net/50ed/f/2011/332/f/7/derpy_hovering_test_by_c_quel-d4hmz2x.gif',
-  9 => 'http://pinkie.mylittlefacewhen.com/media/f/img/mlfw9201-210545.gif',
+  9 => 'http://pinkie.mylittlefacewhen.com/media/f/img/mlfw9201-210545.gif'
 ); // because Derpy is best pony
 
 ?>
